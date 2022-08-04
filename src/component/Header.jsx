@@ -153,7 +153,7 @@ function topFunction() {
                   </div>
                 <Link to="/gallery" onClick={menuButton} ><li>GALLERY</li></Link>
                 <Link to="/about" onClick={menuButton} ><li>ABOUT US</li></Link>
-                <Link to="/contact" onClick={menuButton}><li>Contact US</li></Link>
+                <Link to="/contact" onClick={menuButton}><li>CONTACT US</li></Link>
 
               </ul>
 
